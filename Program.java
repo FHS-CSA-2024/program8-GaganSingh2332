@@ -18,7 +18,7 @@ int difference = firstNum - secondNum;
 int product = firstNum * secondNum;
 double average = (sum) / 2;
 int distance = Math.abs(difference);
-int max = 
+int max = Math.abs(difference) + sum;
 int min = 
 
 
